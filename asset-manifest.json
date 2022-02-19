@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.79e12be6.chunk.css",
+    "main.js": "/WeatherApp/static/js/main.c1024f3a.chunk.js",
+    "main.js.map": "/WeatherApp/static/js/main.c1024f3a.chunk.js.map",
+    "runtime~main.js": "/WeatherApp/static/js/runtime~main.3044ef82.js",
+    "runtime~main.js.map": "/WeatherApp/static/js/runtime~main.3044ef82.js.map",
+    "static/js/2.9fb7b541.chunk.js": "/WeatherApp/static/js/2.9fb7b541.chunk.js",
+    "static/js/2.9fb7b541.chunk.js.map": "/WeatherApp/static/js/2.9fb7b541.chunk.js.map",
+    "index.html": "/WeatherApp/index.html",
+    "precache-manifest.127cca961b16286dbf7ace684cb0b0a2.js": "/WeatherApp/precache-manifest.127cca961b16286dbf7ace684cb0b0a2.js",
+    "service-worker.js": "/WeatherApp/service-worker.js",
+    "static/css/main.79e12be6.chunk.css.map": "/WeatherApp/static/css/main.79e12be6.chunk.css.map"
+  }
+}
